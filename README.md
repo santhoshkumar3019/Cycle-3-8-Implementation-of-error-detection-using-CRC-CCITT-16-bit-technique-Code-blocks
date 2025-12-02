@@ -19,7 +19,7 @@ To write a program for error detection using the Cyclic Redundancy Check (CRC-16
 
 ## 💻 PROGRAM
 
-```c
+```
 #include<stdio.h>
 #include<string.h>
 #define Nstrlen(g)
@@ -72,15 +72,13 @@ void main() {
     else
         printf("No error detected");
 
-
+```
 
 }
 
 ## 💻 OUTPUT
 
-<img width="724" height="331" alt="image" src="https://github.com/user-attachments/assets/1f5d9e2b-ad28-4b27-8d96-a50fc26f9752" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2bba6681-0b29-4b9c-a6e2-d4723cde525a" />
 
-
-
-
-
+## RESULT:
+Thus the error detection using CRC-CCITT[16 bit] technique is implemented and the output is obtained and verified successfully.
